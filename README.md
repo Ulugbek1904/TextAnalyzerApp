@@ -1,6 +1,5 @@
 # Text Analyzer App
 
-![Text Analyzer Logo](images/logo.png)
 
 Welcome to the **Text Analyzer App**, a simple console application written in C# that allows you to analyze text by counting the number of letters and digits.
 
@@ -11,3 +10,4 @@ Welcome to the **Text Analyzer App**, a simple console application written in C#
 - Option to re-run the analysis for multiple texts.
 - Clear and user-friendly console interface.
 
+![Text Analyzer demo]()
