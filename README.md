@@ -10,4 +10,4 @@ Welcome to the **Text Analyzer App**, a simple console application written in C#
 - Option to re-run the analysis for multiple texts.
 - Clear and user-friendly console interface.
 
-![Text Analyzer demo]()
+![Text Analyzer demo](Images/demo.gif.mp4)
